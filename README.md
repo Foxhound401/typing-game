@@ -6,4 +6,4 @@ Gotta go fast, sanic speed!!! 200 wpm, hackaman, terminal god
 
 `Speed Typing` is a highly unsuable typing game that aim to make you become a typing god.
 
-![Preview](https://imgur.com/a/XHjIND4)
+![Preview](https://i.imgur.com/ptUtv7m.gif)
