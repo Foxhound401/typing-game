@@ -1,0 +1,28 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon -e html,js,jsx server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foxhound401/typing-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foxhound401/typing-game/issues"
+  },
+  "homepage": "https://github.com/Foxhound401/typing-game#readme",
+  "dependencies": {
+    "browser-refresh": "^1.7.3",
+    "connect": "^3.7.0",
+    "livereload": "^0.9.3",
+    "nodemon": "^2.0.15",
+    "serve-static": "^1.15.0"
+  }
+}
